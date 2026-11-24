@@ -32,7 +32,7 @@ The default app reads `prices.csv`, which contains monthly adjusted-close prices
 ## Current video evidence
 
 - [Video 1](videos/video-1.md)
-- Video 2: corrected captions are included; add the final YouTube link when available.
+- [Video 2](videos/video-2.md)
 - [Video 3](videos/video-3.md)
 
 ## Limitations
