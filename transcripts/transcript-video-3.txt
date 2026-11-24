@@ -1,0 +1,23 @@
+VIDEO 3 — CORRECTED TRANSCRIPT
+
+Source: English captions downloaded from the uploaded Video 3 recording on November 23, 2026. Finance terms, tickers, and the credit-series identifier were corrected where the auto-captions clearly misheard them. Timestamps are retained from the recording.
+
+[0:00] Beginning my final video of Project 2. This is my investment committee presentation.
+
+[0:07] I want to make a disclosure. I used Codex, GPT-5.6-Terra medium, for coding, research organization, debugging, and document drafting. This live app overall supports my recommendation to pilot a cautious-growth portfolio, not to fully adopt it without monitoring.
+
+[0:24] Looking at the committee decision first, I'm asking the committee to authorize a monitored pilot in the range of 55 to 65% BIL and 35 to 45% ACWI, reviewing quarterly. My portfolio is designed for a cautious investor who still wants growth but needs substantial liquidity. The app's tentative committee recommendation is Pilot, but the operational action remains Committee Review because this 36-month stress changes ACWI by 25 percentage points, as we demonstrated in Video 2.
+
+[0:59] Looking at the base portfolio evidence, the constrained base portfolio is 60% BIL, 0% IEF, 0% LQD, and 40% ACWI, compared with equal weight and a 60% ACWI and 40% LQD benchmark under the same mandate instead of assuming either baseline fits the client.
+
+[1:22] Looking at the mandate verdict table, the mandate requires a 6.5% historical net return estimate, at least 10% BIL, only long positions, and no ETF above 70%. The constrained portfolio passes these rules while the baselines show why following the mandate matters.
+
+[1:42] Looking at my required stress scenarios, the important risk is sensitivity to the data window. I wrote and committed a numeric prediction before changing the selected view from all 59 months of returns to the latest 36 months instead. The results matched my predictions. The constrained mix changed to 70% BIL, 15% IEF, 0% LQD, and 15% ACWI. Net return fell from 6.69% to 6.59%, and volatility fell from 6.03% to 2.44%. ACWI moved from 40% to 15%, which was a 25-point change and reaches my committee-review trigger. The portfolio still, however, passes the 6.5% net-return requirement.
+
+[2:37] Next, I want to talk about my added features. Looking at the baseline test that I added, the committee can see exactly how the recommended portfolio differs from the baselines in return, volatility, BIL exposure, and failed rules. I also added a robustness map across return targets and data windows, plus a rebalancing action card that turns the calculations into a hold, rebalance, or committee-review decision.
+
+[3:05] Looking at the credit monitoring, the corporate-spread monitor uses a point-in-time BAMLC0A0CM series. If the spread is above its trailing median, the app flags LQD, which I can show again. If you increase the fallback latest spread above the trailing median, you immediately get a review message.
+
+[3:32] The committee should pause or reverse the pilot if the latest 36-month window moves any allocation by 25 percentage points or more compared with the all-history base window, if the portfolio misses the 6.5% return target, or if the credit-monitoring process requires review.
+
+[3:49] Overall, my final ask is to approve only the monitored pilot, not a permanent allocation. The committee should require quarterly review of the portfolio, the stress results, and the credit-monitoring signal before any broader action.

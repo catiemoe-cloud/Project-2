@@ -4,4 +4,4 @@
 
 ## Corrected captions
 
-Pending: add the downloaded caption file after the recording captions are available.
+See the [corrected Video 3 transcript](../transcripts/transcript-video-3.txt).
