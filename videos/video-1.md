@@ -18,4 +18,6 @@
 
 [2:10] Going back to my app and looking at the committee decision panel, the biggest change in my thinking was that the portfolio screen is useful only if it shows when its answer is unstable. My process, however, gives the committee a transparent pilot, stress results, and conditions for review or reversal.
 
-Note: The recording captions state 6.56% at 1:54–2:00. The app and locked changed-input record state 6.59%.
+## Correction disclosure
+
+At 1:54–2:00, the recording/captions state that net return fell from 6.69% to 6.56%. That spoken value was incorrect. The app's Selected interactive view, the Required stress scenarios table, and the Locked Changed-Input Record show the validated result: net return fell from **6.69% to 6.59%**. The validated app and written record are the authoritative sources for this figure.
