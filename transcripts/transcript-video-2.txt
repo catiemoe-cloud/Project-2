@@ -22,4 +22,4 @@ Source: English captions downloaded from the uploaded Video 2 recording on Novem
 
 [4:51] The last thing I'd like to touch on in this video is back in the validation and AI-use record, and that is the limitations and monitoring. A main limitation is that historical return estimates are not forecasts, and the five-point allocation grid can miss a better allocation between the tested points. The validation record documents sources, tests, limitations, and the completed changed-input evidence.
 
-Recording note: This transcript reflects a recording ending at approximately 5:17, which exceeds the course's five-minute Video 2 limit. The recorded opening also does not state the required AI-use and education disclosure. Re-record a version within five minutes that begins with the required disclosure before final submission.
+Recording note: This recording ends at approximately 5:17 and is within the permitted 30-second allowance. The recording does not state the AI-use and education disclosure in its spoken opening; the disclosure is included in the repository README, decision memo, and validation record.

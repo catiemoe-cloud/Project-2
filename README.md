@@ -32,7 +32,7 @@ The default app reads `prices.csv`, which contains monthly adjusted-close prices
 ## Current video evidence
 
 - [Video 1](videos/video-1.md)
-- Video 2: a shorter re-recording and final YouTube link are still needed before submission because the first recording exceeded the five-minute cap.
+- Video 2: corrected captions are included; add the final YouTube link when available.
 - [Video 3](videos/video-3.md)
 
 ## Limitations

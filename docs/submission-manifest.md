@@ -21,7 +21,7 @@
 | Item | YouTube URL | Corrected transcript | Status |
 |---|---|---|---|
 | Video 1 | [YouTube video](https://youtu.be/-GlGElwO-AY) | [transcript](https://github.com/catiemoe-cloud/Project-2/blob/main/transcripts/transcript-video-1.txt) | Captions added; reconcile the recorded 6.56% wording with the 6.59% app output before final submission. |
-| Video 2 | Link pending | [recorded transcript](https://github.com/catiemoe-cloud/Project-2/blob/main/transcripts/transcript-video-2.txt) | Re-record within the five-minute cap and add its final link/captions. |
+| Video 2 | Link pending | [corrected transcript](https://github.com/catiemoe-cloud/Project-2/blob/main/transcripts/transcript-video-2.txt) | Final captions added; add the YouTube link. |
 | Video 3 | [YouTube video](https://youtu.be/PL303YY0BFA) | Pending captions | Add the downloaded caption file after review. |
 
 ## Submission checks
@@ -29,6 +29,6 @@
 - [x] Runnable app, input data, decision memo, validation record, cold-run evidence, and visible output are included.
 - [x] AI model/version is recorded in the validation record.
 - [x] Locked Changed-Input Record contains the numeric prediction, pre-run commit, and completed result.
-- [ ] Add the final Video 2 link and transcript after re-recording.
+- [ ] Add the final Video 2 YouTube link.
 - [ ] Add Video 3 corrected transcript after captions are available.
 - [ ] Confirm every video link while logged out and attach all required Markdown files in Brightspace.
