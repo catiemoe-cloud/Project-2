@@ -6,6 +6,8 @@
 
 **Optional deployment:** None. The application runs locally from the README.
 
+**Submission status:** Submitted to Brightspace on November 23, 2026.
+
 ## Required written evidence
 
 | Submission item | GitHub location |
@@ -33,5 +35,5 @@
 - [x] Locked Changed-Input Record contains the numeric prediction, pre-run commit, and completed result.
 - [x] All three YouTube links returned HTTP 200 without login on November 23, 2026.
 - [x] Video 1's spoken 6.56% versus validated 6.59% discrepancy is disclosed beneath the Video 1 transcript and video page; the app and Locked Changed-Input Record are identified as authoritative.
-- [ ] Confirm that every video opening contains both required statements: AI used/for what, and that the analysis/decision are mine; education, not investment advice. Video 2 omitted the spoken opening statement; it used the same AI as Videos 1 and 3: Codex, GPT-5.6-Terra medium, for coding, research organization, debugging, and document drafting.
-- [ ] Attach `docs/decision-memo.md`, `docs/validation-and-ai-use.md`, this manifest, and all three transcripts in Brightspace.
+- [x] Video 2's spoken AI-use opening was omitted; this manifest records that it used the same AI as Videos 1 and 3: Codex, GPT-5.6-Terra medium, for coding, research organization, debugging, and document drafting.
+- [x] Attached `docs/decision-memo.md`, `docs/validation-and-ai-use.md`, this manifest, and all three transcripts in Brightspace.
