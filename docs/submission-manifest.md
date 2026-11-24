@@ -33,4 +33,5 @@
 - [x] Locked Changed-Input Record contains the numeric prediction, pre-run commit, and completed result.
 - [x] All three YouTube links returned HTTP 200 without login on November 23, 2026.
 - [ ] Resolve the Video 1 spoken 6.56% versus app/validation 6.59% discrepancy before submission.
+- [ ] Confirm that every video opening contains both required statements: AI used/for what, and that the analysis/decision are mine; education, not investment advice. Video 2 omitted the spoken opening statement; it used the same AI as Videos 1 and 3: Codex, GPT-5.6-Terra medium, for coding, research organization, debugging, and document drafting.
 - [ ] Attach `docs/decision-memo.md`, `docs/validation-and-ai-use.md`, this manifest, and all three transcripts in Brightspace.
